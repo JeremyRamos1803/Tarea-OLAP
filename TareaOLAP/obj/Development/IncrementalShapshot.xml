@@ -1,0 +1,96 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>TareaOLAP</Database>
+    <Server>DESKTOP-UMBOGLC\MSSQLSERVER2</Server>
+    <ConnectionString>Data Source=DESKTOP-UMBOGLC\MSSQLSERVER2;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>PkvXcY8n6abiig9/HkIO4MuhLCo=24/11/2024 6:49:1324/11/2024 5:51:56</TimeStamp>
+        <ID>
+          <String>Precipitation DB</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>l+BxOtsbzKWEJaIKPVM1S2o18zA=24/11/2024 5:52:1224/11/2024 5:52:12</TimeStamp>
+        <ID>
+          <String>Vista Precipitation DB</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>4O3lS0JVvckrUu8iiETN5d3qnr8=24/11/2024 6:49:1324/11/2024 6:49:13</TimeStamp>
+        <ID>
+          <String>Dim Estacion</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>l4tm9rkHHxho/t4epUMp3XXn5qs=24/11/2024 6:50:0124/11/2024 6:50:01</TimeStamp>
+        <ID>
+          <String>Dim Fuente</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Mt9+2UVex45eehnvC1j6yYlxO6c=24/11/2024 6:50:1124/11/2024 6:50:11</TimeStamp>
+        <ID>
+          <String>Dim Localidad</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>qQTY0q4DDHSqpdkYAwZefqYLHOQ=24/11/2024 6:50:3224/11/2024 6:50:32</TimeStamp>
+        <ID>
+          <String>Dim Institucion</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>TXHwC8zTI8NpQR3xw47e1tLgE7o=24/11/2024 7:56:5424/11/2024 6:50:43</TimeStamp>
+        <ID>
+          <String>Dim Fecha</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>mdhQeRcr4divTuc68sEOXf5a/+o=24/11/2024 7:22:5324/11/2024 6:50:23</TimeStamp>
+        <ID>
+          <String>Dim Jer Cuenca</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>uC+E43MxetNR+snuCedB+TQcdLI=24/11/2024 7:28:4924/11/2024 7:23:03gswgqynxEmTl9zadm+iJa/LcQDQ=24/11/2024 7:23:0324/11/2024 7:23:03</TimeStamp>
+        <ID>
+          <String>Vista Precipitation DB</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>2qGhivIRTu8gY/2QOwICModv/t0=24/11/2024 6:49:1724/11/2024 5:51:06</TimeStamp>
+      <ID>
+        <String>TareaOLAP</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2024-11-24T10:57:25.053333Z</LastDeployed>
+</DeploymentSnapshot>

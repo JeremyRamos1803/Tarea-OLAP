@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC GAMER\\source\\repos\\TareaOLAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{907C0F55-536A-499A-9396-901D79CA4F6A}|TareaOLAP\\TareaOLAP.dwproj|C:\\Users\\PC GAMER\\source\\repos\\TareaOLAP\\TareaOLAP\\Dim Fecha.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{907C0F55-536A-499A-9396-901D79CA4F6A}|TareaOLAP\\TareaOLAP.dwproj|solutionrelative:TareaOLAP\\Dim Fecha.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907C0F55-536A-499A-9396-901D79CA4F6A}|TareaOLAP\\TareaOLAP.dwproj|C:\\Users\\PC GAMER\\source\\repos\\TareaOLAP\\TareaOLAP\\Cubo Precipitation DB.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{907C0F55-536A-499A-9396-901D79CA4F6A}|TareaOLAP\\TareaOLAP.dwproj|solutionrelative:TareaOLAP\\Cubo Precipitation DB.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907C0F55-536A-499A-9396-901D79CA4F6A}|TareaOLAP\\TareaOLAP.dwproj|C:\\Users\\PC GAMER\\source\\repos\\TareaOLAP\\TareaOLAP\\Dim Jer Cuenca.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{907C0F55-536A-499A-9396-901D79CA4F6A}|TareaOLAP\\TareaOLAP.dwproj|solutionrelative:TareaOLAP\\Dim Jer Cuenca.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Fecha.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC GAMER\\source\\repos\\TareaOLAP\\TareaOLAP\\Dim Fecha.dim",
+              "RelativeDocumentMoniker": "TareaOLAP\\Dim Fecha.dim",
+              "ToolTip": "C:\\Users\\PC GAMER\\source\\repos\\TareaOLAP\\TareaOLAP\\Dim Fecha.dim [Dise\u00F1o]",
+              "RelativeToolTip": "TareaOLAP\\Dim Fecha.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T10:56:41.437Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cubo Precipitation DB.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC GAMER\\source\\repos\\TareaOLAP\\TareaOLAP\\Cubo Precipitation DB.cube",
+              "RelativeDocumentMoniker": "TareaOLAP\\Cubo Precipitation DB.cube",
+              "ToolTip": "C:\\Users\\PC GAMER\\source\\repos\\TareaOLAP\\TareaOLAP\\Cubo Precipitation DB.cube [Dise\u00F1o]",
+              "RelativeToolTip": "TareaOLAP\\Cubo Precipitation DB.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T10:23:03.717Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Jer Cuenca.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC GAMER\\source\\repos\\TareaOLAP\\TareaOLAP\\Dim Jer Cuenca.dim",
+              "RelativeDocumentMoniker": "TareaOLAP\\Dim Jer Cuenca.dim",
+              "ToolTip": "C:\\Users\\PC GAMER\\source\\repos\\TareaOLAP\\TareaOLAP\\Dim Jer Cuenca.dim [Dise\u00F1o]",
+              "RelativeToolTip": "TareaOLAP\\Dim Jer Cuenca.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T10:18:45.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
